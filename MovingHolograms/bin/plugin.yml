@@ -1,0 +1,9 @@
+name: MovingHolograms
+author: DevToLearn
+version: 1.0
+main: net.movingholograms.devtolearn.main.MovingHolograms
+
+commands:
+  movingholograms:
+    description: Create moving holograms
+    aliases: [mh]
